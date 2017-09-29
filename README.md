@@ -15,6 +15,9 @@ closeTextColor: 'rgb(253,85,82)' // Text color for close button.
 imageColor: 'rgb(253,85,82)' // Tint color of close image button.
 
 ```
+### Screenshots:
+![alt text](https://2.bp.blogspot.com/-d3d93IcrlH0/Wc4pUiT9CoI/AAAAAAAAAPQ/mS9SUMFr6kwzxfekdbPGZhz_Y3CPX_USQCLcBGAs/s640/snackbar-demo-with-img-button.gif)
+![alt text](https://3.bp.blogspot.com/-ncuaeACI_WY/Wc4pXDHfuGI/AAAAAAAAAPU/W5IAK_CmiUYRk2R2WFbBZjVlDSrZyG_tACLcBGAs/s640/snackbar-demo-with-close-text.gif)
 
 ### Usage Example
 
