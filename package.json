@@ -1,0 +1,24 @@
+{
+  "name": "react-native-custom-snackbar",
+  "version": "1.0.0",
+  "description": "This is a custom animated snackbar for both Android and iOS devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "snackbar",
+    "custom snackbar",
+    "animated snackbar"
+  ],
+  "author": "Ranveer Ching <pankajhoney1991@gmail.com> (https://github.com/ranveerching)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranveerching/react-native-custom-snackbar/issues"
+  },
+  "homepage": "https://github.com/ranveerching/react-native-custom-snackbar",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
