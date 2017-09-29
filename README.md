@@ -24,7 +24,7 @@ react-native init CustomSnackbar
 cd CustomSnackbar
 npm install react-native-custom-snackbar --save
 ```
-2. Then paste the following code into your ```index.android.js / index.ios.js file```:
+2. Then paste the following code into your ```index.android.js / index.ios.js``` file:
 ```
 import React, { Component } from 'react';
 import { View, TouchableOpacity, Text, StyleSheet, Platform, AppRegistry } from 'react-native';
